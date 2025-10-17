@@ -52,5 +52,5 @@ const c = arr[2];
 // const [p, q, r] = [8, 9];
 // console.log(p, q, r); // result: 8 9 undefined
 
-//const [p = 1, q = 1, r = 1] = [8, 9];
+// const [p = 1, q = 1, r = 1] = [8, 9];
 // console.log(p, q, r); // result: 8 9 1
