@@ -1,4 +1,4 @@
-# Udemy · Course · JavaScript · Jonas Schmedtmann
+# JavaScript Course by Jonas Schmedtmann on Udemy
 
-- [Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ACCAGE0923)
+- [Course](https://www.udemy.com/course/the-complete-javascript-course)
 - [Notion](https://www.notion.so/Udemy-JavaScript-Jonas-Schmedtmann-28f37ed694808076846bee966002cb1d)
